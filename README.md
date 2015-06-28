@@ -3,14 +3,12 @@ Projeto de Pizzaria JAVA
 
 Introdução
 
-Esse documento é responsável por descrever os objetivos do sistema de controle de entregas da "Pizzaria California".
-Além disso será especificado as informações necessárias para a implementação do sistema. 
+Esse documento é responsável por descrever os objetivos de um sistema voltado para o gerenciamento de uma Pizzaria/Restaurante ou qualquer tipo de comércio que recebe pedidos por telefone e pessoalmente.
+Além dos objetivos, será apresentado as especificações necessárias para a implementação do sistema. 
 
 Visão Geral
 
-O sistema irá permitir ao cliente de uma pizzaria convencional fazer pedidos pessoalmente e pelo telefone. Também irá
-possibilitar aos atendentes da pizzaria acesso a todos pedidos. Além disso o gerente terá controle total do sistema
-pela interface.
+O sistema irá permitir ao cliente de uma pizzaria convencional fazer pedidos pessoalmente e pelo telefone. O usuário do sistema tera acesso limitado de acordo com a sua função dentro da empresa. Pelos menus interativos será possível registrar/editar/remover pedidos, clientes, produtos e funcionários. Além disso, o usuário tera fácil acesso aos dados mais importantes em uma tela fácil compreensão.
 
 Requisitos
 
@@ -36,3 +34,10 @@ O sistema ira permitir:
 8) Ao gerente, controle total sobre os pedidos.
 
 9) Ao gerente, listar/cadastrar/editar/remover funcionários.
+
+
+Equipe
+
+Daniel Resnitzky
+Joab Nunes
+Guilherme Costa
