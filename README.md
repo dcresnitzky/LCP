@@ -38,6 +38,7 @@ O sistema ira permitir:
 
 Equipe
 
-Daniel Resnitzky
-Joab Nunes
-Guilherme Costa
+Daniel Resnitzky;
+Joab Nunes;
+Guilherme Costa;
+Guilherme Livramento
