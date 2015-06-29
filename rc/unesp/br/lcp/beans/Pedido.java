@@ -6,7 +6,7 @@ import java.util.Date;
 public class Pedido {
 
 	private Cliente cliente;
-	private List<Produto> produtos;
+	private List<ProdutoPedido> produtos;
 	private Funcionario atendente;
 	private Funcionario entregador;
 	private Endereco endereco;
@@ -20,7 +20,7 @@ public class Pedido {
 	private Date hora;
 	private int status;
         
-    public Pedido(Cliente cliente, List<Produto> produtos){
+    public Pedido(Cliente cliente, List<ProdutoPedido> produtos){
         this.cliente = cliente;
         this.produtos = produtos;
     }
@@ -41,14 +41,14 @@ public class Pedido {
     /**
      * @return the produtos
      */
-    public List<Produto> getProdutos() {
+    public List<ProdutoPedido> getProdutos() {
         return produtos;
     }
 
     /**
      * @param produtos the produtos to set
      */
-    public void setProdutos(List<Produto> produtos) {
+    public void setProdutos(List<ProdutoPedido> produtos) {
         this.produtos = produtos;
     }
 
