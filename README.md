@@ -1,12 +1,30 @@
-# LCP
-Projeto de Pizzaria JAVA
+# LCP NOTURNO
+Projeto de Pizzaria
+UNESP RIO CLARO
 
-Introdução
+Equipe:
 
-Esse documento é responsável por descrever os objetivos de um sistema voltado para o gerenciamento de uma Pizzaria/Restaurante ou qualquer tipo de comércio que recebe pedidos por telefone e pessoalmente.
-Além dos objetivos, será apresentado as especificações necessárias para a implementação do sistema. 
+Daniel Resnitzky;
+Joab Nunes;
+Guilherme Costa;
+Guilherme Livramento
 
-Visão Geral
+Sumário
+
+1 - Introdução
+2 - Visão Geral
+3 - Requisitos do sistema
+4 - Estrutura
+4.1 - UML
+4.2 - Principais Classes e métodos.
+4.3 - Views
+5 - Bibliografia
+
+1) Introdução
+
+Esse documento é responsável por expor um sistema desenvolvido para a matéria de Linguagens de Programação Comerciais do curso de Ciências da Computação período noturno UNESP - Rio Claro . O projeto em questão foi desenvolvido utilizando o paradigma de orientação objeto em JAVA, para isso empregamos os principais conceitos visto dentro e fora da classe de aula como herança, encapsulamento, interfaces entre outros. Nesta primeira etapa do desenvolvimento iremos apresentar um diagrama de classes, uma breve explicação das funcionalidades, parte de seu código fonte e imagens de suas views. O UML foi criado pelo ASTAH e a IDE escolhida foi o NETBEANS 8.02.
+
+2) Visão Geral
 
 O sistema irá permitir ao cliente de uma pizzaria convencional fazer pedidos pessoalmente e pelo telefone. O usuário do sistema tera acesso limitado de acordo com a sua função dentro da empresa. Pelos menus interativos será possível registrar/editar/remover pedidos, clientes, produtos e funcionários. Além disso, o usuário tera fácil acesso aos dados mais importantes em uma tela fácil compreensão.
 
@@ -36,9 +54,3 @@ O sistema ira permitir:
 9) Ao gerente, listar/cadastrar/editar/remover funcionários.
 
 
-Equipe
-
-Daniel Resnitzky;
-Joab Nunes;
-Guilherme Costa;
-Guilherme Livramento
