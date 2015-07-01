@@ -4,6 +4,7 @@ import java.util.List;
 
 public class Produto {
 
+        private int codigo;
 	private String nome;
 	private Categoria categoria;
 	private double preco;
