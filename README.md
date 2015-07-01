@@ -18,7 +18,8 @@ Sumário
 4.1 - UML
 4.2 - Principais Classes e métodos.
 4.3 - Views
-5 - Bibliografia
+5 - Código Fonte
+6 - Bibliografia
 
 1) Introdução
 
@@ -28,7 +29,7 @@ Esse documento é responsável por expor um sistema desenvolvido para a matéria
 
 O sistema fornecerá uma alternativa eficiente para controle de pedidos de uma pizzaria, restaurante ou qualquer estabelecimento comercial onde, os clientes realizam pedidos e o comércio disponibiliza a opção de entrega ou retirada. Para isso o sistema conta com views práticas e objetivas além de uma ágil função de busca para clientes veteranos. Assim, o cliente não necessita passar o endereço toda vez ao realizar um pedido. Além disso foi implementado um sólido sistema de gerenciamento de produtos e funcionários. Também foi elaborado um breve organizador de entregas de acordo com a disponibilidade de cada entregador. O desenvolvimento foi possível utilizando os  seguintes softwares: ASTAH Community 7.0 para o UML e a IDE  JAVA escolhida foi o NETBEANS 8.02.
 
-3)Requisitos
+3) Requisitos
 
 1. O sistema ira permitir ao cliente fazer um pedido pessoalmente ou pelo telefone.
   1. Um atendente irá registrar/buscar o cliente pela interface.
@@ -36,13 +37,33 @@ O sistema fornecerá uma alternativa eficiente para controle de pedidos de uma p
     2. O atendente irá inserir os produtos pedidos e suas quantidades.
     3. Um entregador será selecionado para realizar a entrega.
     4. O atendente então deverá perguntar pela forma de pagamento e se for em dinheiro o cliente de informar para quanto precisa de troco.
+    5. Após finalizar o pedido o produto entrara na fila para o preparo.
 2. O sistema irá permitir ao atendente exibir o cardápio organizado por categorias sempre que solicitado.
-3. O sistema irá permitir ao atendente, acompanhar o pedido pelo sistema.
-4. O sistema irá permitir ao atendente, mudar os status dos pedidos para: preparo, entrega, entregue, cancelado.
+3. O sistema irá permitir ao atendente acompanhar o pedido pelo sistema.
+4. O sistema irá permitir ao atendente mudar os status dos pedidos para: na fila, preparo, entrega, entregue, cancelado.
 5. O sistema irá permitir ao gerente criar/editar/remover produtos e seus respectivos ingredientes assim como as categorias de cada um.
 6. O sistema irá permitir listar/cadastrar/editar/remover clientes.
 7. O sistema irá permitir listar a todos os produtos.
 8. O sistema irá permitir listar todos os pedidos.
 9. Ao gerente, listar/cadastrar/editar/remover funcionários.
 
+4) Estrutura 
 
+4.1) UML
+
+Ver UML_FINAL.JPG
+
+4.2) Principais Classes e métodos.
+
+Descrever ambos baseado no UML
+
+4.3) Views
+
+Screenshots em breve
+
+5) Código fonte
+Nos arquivos.
+
+6) Bibliografia
+
+Apostila CAELUM [http://www.caelum.com.br/apostila-java-orientacao-objetos/]
