@@ -95,14 +95,12 @@
                                   <EmptySpace type="separate" max="-2" attributes="0"/>
                                   <Component id="jTextField5" max="32767" attributes="0"/>
                               </Group>
-                              <Group type="103" alignment="0" groupAlignment="1" max="-2" attributes="0">
-                                  <Group type="102" attributes="0">
-                                      <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
-                                      <EmptySpace type="separate" max="-2" attributes="0"/>
-                                      <Component id="jComboBox2" pref="0" max="32767" attributes="0"/>
-                                  </Group>
-                                  <Component id="jScrollPane1" alignment="0" min="-2" pref="308" max="-2" attributes="0"/>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jComboBox2" pref="0" max="32767" attributes="0"/>
                               </Group>
+                              <Component id="jScrollPane1" alignment="0" min="-2" pref="308" max="-2" attributes="0"/>
                               <Group type="102" alignment="0" attributes="0">
                                   <Component id="jButton4" min="-2" pref="148" max="-2" attributes="0"/>
                                   <EmptySpace type="unrelated" max="-2" attributes="0"/>
@@ -285,6 +283,9 @@
       <Properties>
         <Property name="text" type="java.lang.String" value="Excluir Endereco"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton5ActionPerformed"/>
+      </Events>
     </Component>
     <Container class="javax.swing.JScrollPane" name="jScrollPane2">
       <AuxValues>
