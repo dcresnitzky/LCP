@@ -11,15 +11,15 @@ Guilherme Livramento
 
 Sumário
 
-1 - Introdução
-2 - Visão Geral
-3 - Requisitos do sistema
-4 - Estrutura
-4.1 - UML
-4.2 - Principais Classes e métodos.
-4.3 - Views
-5 - Código Fonte
-6 - Bibliografia
+1. Introdução
+2. Visão Geral
+3. Requisitos do sistema
+4. Estrutura
+  1. - UML
+  2. - Principais Classes e métodos.
+  3. - Views
+5. Código Fonte
+6. Bibliografia
 
 1) Introdução
 
@@ -49,15 +49,15 @@ O sistema fornecerá uma alternativa eficiente para controle de pedidos de uma p
 
 4) Estrutura 
 
-4.1) UML
+i) UML
 
 Ver UML_FINAL.JPG
 
-4.2) Principais Classes e métodos.
+ii) Principais Classes e métodos.
 
 Descrever ambos baseado no UML
 
-4.3) Views
+iii) Views
 
 Screenshots em breve
 
