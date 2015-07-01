@@ -48,8 +48,7 @@ O sistema fornecerá uma alternativa eficiente para controle de pedidos de uma p
 5. O sistema irá permitir ao gerente criar/editar/remover produtos e seus respectivos ingredientes assim como as categorias de cada um.
 6. O sistema irá permitir listar/cadastrar/editar/remover clientes.
 7. O sistema irá permitir listar a todos os produtos.
-8. O sistema irá permitir listar todos os pedidos.
-9. Ao gerente, listar/cadastrar/editar/remover funcionários.
+8. Ao gerente, listar/cadastrar/editar/remover funcionários.
 
 4) Estrutura 
 
