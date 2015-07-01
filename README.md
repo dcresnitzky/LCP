@@ -26,23 +26,23 @@ Esse documento é responsável por expor um sistema desenvolvido para a matéria
 
 2) Visão Geral
 
-O sistema irá permitir ao cliente de uma pizzaria convencional fazer pedidos pessoalmente e pelo telefone. O usuário do sistema tera acesso limitado de acordo com a sua função dentro da empresa. Pelos menus interativos será possível registrar/editar/remover pedidos, clientes, produtos e funcionários. Além disso, o usuário tera fácil acesso aos dados mais importantes em uma tela fácil compreensão. O UML foi criado pelo ASTAH Community 7.0 e a IDE escolhida foi o NETBEANS 8.02.
+O sistema fornecerá uma alternativa eficiente para controle de pedidos de uma pizzaria, restaurante ou qualquer estabelecimento comercial onde, os clientes realizam pedidos e o comércio disponibiliza a opção de entrega ou retirada. Para isso o sistema conta com views práticas e objetivas além de uma ágil função de busca para clientes veteranos. Assim, o cliente não necessita passar o endereço toda vez ao realizar um pedido. Além disso foi implementado um sólido sistema de gerenciamento de produtos e funcionários. Também foi elaborado um breve organizador de entregas de acordo com a disponibilidade de cada entregador. O desenvolvimento foi possível utilizando os  seguintes softwares: ASTAH Community 7.0 para o UML e a IDE  JAVA escolhida foi o NETBEANS 8.02.
 
 3)Requisitos
 
-O sistema ira permitir:
-
-1. Ao cliente, fazer um pedido pessoalmente ou pelo telefone.
-  1. Um atendente irá registrar pela interface.
-    1. Se o pedido for para entrega o usuário deverá fornecer um endereço.
-  2. Um motoboy será selecionado para realizar a entrega.
-2. Ao atendente, acompanhar o pedido pelo sistema.
-3. Ao atendente, mudar os status dos pedidos para: preparo, entrega, entregue, cancelado.
-4. Ao gerente criar/editar/remover produtos e seus respectivos ingredientes assim como as categorias de cada um.
-5. Listar a todos usuários.
-6. Listar a todos os produtos.
-7. Listar todos os ingredientes.
-8. Ao gerente, controle total sobre os pedidos.
+1. O sistema ira permitir ao cliente fazer um pedido pessoalmente ou pelo telefone.
+  1. Um atendente irá registrar/buscar o cliente pela interface.
+    1. Se o pedido for para entrega o cliente deverá fornecer um endereço caso não tenha cadastro prévio.
+    2. O atendente irá inserir os produtos pedidos e suas quantidades.
+    3. Um entregador será selecionado para realizar a entrega.
+    4. O atendente então deverá perguntar pela forma de pagamento e se for em dinheiro o cliente de informar para quanto precisa de troco.
+2. O sistema irá permitir ao atendente exibir o cardápio organizado por categorias sempre que solicitado.
+3. O sistema irá permitir ao atendente, acompanhar o pedido pelo sistema.
+4. O sistema irá permitir ao atendente, mudar os status dos pedidos para: preparo, entrega, entregue, cancelado.
+5. O sistema irá permitir ao gerente criar/editar/remover produtos e seus respectivos ingredientes assim como as categorias de cada um.
+6. O sistema irá permitir listar/cadastrar/editar/remover clientes.
+7. O sistema irá permitir listar a todos os produtos.
+8. O sistema irá permitir listar todos os pedidos.
 9. Ao gerente, listar/cadastrar/editar/remover funcionários.
 
 
