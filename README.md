@@ -5,9 +5,13 @@ UNESP RIO CLARO
 Equipe:
 
 Daniel Resnitzky;
+
 Joab Nunes;
+
 Guilherme Costa;
+
 Guilherme Livramento
+
 
 Sumário
 
