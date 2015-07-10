@@ -81,9 +81,37 @@ ii) Principais Classes e métodos.
    A variável formaPagamento é do tipo int pois se o cliente escolher a dinheiro como forma de pagamento, a variável formaPagamento será definida com o valor 0. Se a forma de pagamento escolhida não for dinheiro, a variável troco receberá valor 0 e a variável formaPagamento será setada com valor 1 para cartão de débito, 2 para cartão de crédito, 3 para vale refeição, e assim por diante. 
 
 
-iii) Views 
+iii) Views
 
-Screenshots em breve 
+Login
+![Login](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Login.PNG)
+
+MainView
+![MainView](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/MainView.PNG)
+
+Novo Pedido
+![NovoPedido](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/NovoPedido.PNG)
+
+Clientes
+![Clientes](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Clientes.PNG)
+
+Produtos
+![Produtos](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Produtos.PNG)
+
+Cardapio
+![Cardapio](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Cardapio.PNG)
+
+Funcionarios
+![Funcionarios](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Funcionarios.PNG)
+
+Novo Produto
+![NovoProduto](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/NovoProduto.PNG)
+
+Detalhes Do Produto
+![DetalhesDoProduto](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/DetalhesDoProduto.PNG)
+
+Confirmacao
+![Confirmacao](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Confirmacao.PNG)
 
 5) Código fonte 
 
