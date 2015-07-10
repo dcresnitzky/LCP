@@ -84,33 +84,43 @@ ii) Principais Classes e métodos.
 iii) Views
 
 Login
+
 ![Login](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Login.PNG)
 
 MainView
+
 ![MainView](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/MainView.PNG)
 
 Novo Pedido
+
 ![NovoPedido](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/NovoPedido.PNG)
 
 Clientes
+
 ![Clientes](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Clientes.PNG)
 
 Produtos
+
 ![Produtos](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Produtos.PNG)
 
 Cardapio
+
 ![Cardapio](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Cardapio.PNG)
 
 Funcionarios
+
 ![Funcionarios](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Funcionarios.PNG)
 
 Novo Produto
+
 ![NovoProduto](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/NovoProduto.PNG)
 
 Detalhes Do Produto
+
 ![DetalhesDoProduto](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/DetalhesDoProduto.PNG)
 
 Confirmacao
+
 ![Confirmacao](https://raw.githubusercontent.com/dcresnitzky/LCP/master/views/Confirmacao.PNG)
 
 5) Código fonte 
