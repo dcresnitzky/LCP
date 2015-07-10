@@ -7,8 +7,7 @@ package rc.unesp.br.lcp.controller;
 
 import rc.unesp.br.lcp.beans.Funcionario;
 import rc.unesp.br.lcp.beans.Gerente;
-import rc.unesp.br.lcp.view.Login;
-import rc.unesp.br.lcp.view.Principal;
+import rc.unesp.br.lcp.view.MainView;
 
 /**
  *
@@ -25,7 +24,7 @@ public class Main {
         gerente.setLogin("root");
         gerente.setSenha("root".toCharArray());
         
-        new Principal().setVisible(true);
+        new MainView().setVisible(true);
     }
     
 }
